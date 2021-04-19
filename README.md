@@ -29,7 +29,7 @@
 
   Provide the data from the test.csv file.
 
-![Image]()  
+![Image](https://github.com/inDefinate9/Fake-news-detectation/blob/main/App/static/Screenshot%20from%202021-04-19%2020-02-33.png)  
 
 ## Algorithms Used
 
