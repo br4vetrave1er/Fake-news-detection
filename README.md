@@ -1,4 +1,4 @@
-## Fake news Detectation
+## Fake news Detection
   Machine learning based project for detecting if the given news is fake or not and deployment of the project using Flask.
 
 ## Pre-Requisites
